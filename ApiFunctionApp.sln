@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31219.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFunctionApp", "ApiFunctionApp\ApiFunctionApp.csproj", "{F64A509B-5585-4C47-9554-DFFCF5A87F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64A509B-5585-4C47-9554-DFFCF5A87F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64A509B-5585-4C47-9554-DFFCF5A87F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64A509B-5585-4C47-9554-DFFCF5A87F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64A509B-5585-4C47-9554-DFFCF5A87F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC4F8C7-1570-4BA3-B4CD-E19CC8125CE2}
+	EndGlobalSection
+EndGlobal
